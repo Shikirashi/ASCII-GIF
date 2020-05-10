@@ -1,0 +1,2 @@
+# ASCII-GIF
+ASCII GIF test
